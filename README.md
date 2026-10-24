@@ -6,14 +6,15 @@ I'm currently training as a Data Analyst at Simplon in France.
 
 I enjoy exploring datasets, identifying data quality issues, writing SQL queries, and transforming raw data into useful insights.
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 - **SQL & Databases:** SQL, PostgreSQL, BigQuery
 - **Development Tools:** DBeaver, Visual Studio Code
 - **Python:** Pandas, data cleaning
 - **BI & Reporting:** Power BI, Looker Studio, Excel
 - **Data Analysis:** data quality, reporting, KPI analysis
-
+- **AI-assisted Data Analysis:** ChatGPT, Google Gemini, SQL query development and explanation, Python debugging, data cleaning assistance, technical documentation, validation of AI-generated suggestions.
+ 
 ### 📊 Featured Projects
 
 - **UrbanStay** — hotel booking data analysis with SQL and PostgreSQL
